@@ -26,10 +26,10 @@ The analysis reveals key insights into customer spending patterns during Diwali,
 - Patterns across different zones that provide valuable business insights.
 
 This project is built in Jupyter Notebook, making it easy to follow the analysis steps interactively.
+Explore the insights and gain a deeper understanding of customer behavior during Diwali Sales.
 
 ---
 
-Explore the insights and gain a deeper understanding of customer behavior during Diwali!
 
 Any updates, improvements, or contributions to enhance this project are greatly appreciated!
 
