@@ -16,8 +16,8 @@ The project follows a step-by-step approach:
 - **Visual Approach**: Each aspect of the analysis is represented visually with clear, descriptive graphs that offer insights into the spending patterns and trends in the dataset.
 
 ## Files
-- **Diwali_Sale_Analysis.ipynb**: The Jupyter Notebook containing the complete analysis with code, visualizations, and interpretations.
-- **diwali_sales_data.csv**: The dataset used in this analysis, included in the repository for ease of use.
+- **Diwali_Sales_Analysis.ipynb**: The Jupyter Notebook containing the complete analysis with code, visualizations, and interpretations.
+- **Diwali Sales Data.csv**: The dataset used in this analysis, included in the repository for ease of use.
 
 ## Insights Gained
 The analysis reveals key insights into customer spending patterns during Diwali, including:
@@ -30,3 +30,6 @@ This project is built in Jupyter Notebook, making it easy to follow the analysis
 ---
 
 Explore the insights and gain a deeper understanding of customer behavior during Diwali!
+
+Any updates, improvements, or contributions to enhance this project are greatly appreciated!
+
